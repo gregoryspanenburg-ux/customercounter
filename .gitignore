@@ -2,3 +2,5 @@ build
 util
 CustomerCalculator.spec.spec
 nuitka-crash-report.xml
+.idea
+__pycache__
